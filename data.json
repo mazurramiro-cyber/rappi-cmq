@@ -2,25 +2,44 @@
   "pivot": [
     {
       "marca": "Brahma",
-      "sku": "Cerveza Brahma Chopp Lata 354mlx1 Brahma",
-      "calibre": "330/355",
+      "sku": "Brahma Cerveza Chopp Brahma",
+      "calibre": "710/730",
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
         "2026-08-05": {
-          "fleje": 1929.0,
-          "ptc": 1929.0,
-          "dinamica": 0.0
+          "fleje": 4329.0,
+          "ptc": 3030.3,
+          "dinamica": 0.3
         },
         "2026-08-06": {
-          "fleje": 1899.0,
-          "ptc": 1899.0,
-          "dinamica": 0.0
+          "fleje": 4329.0,
+          "ptc": 3030.3,
+          "dinamica": 0.3
         },
         "2026-08-09": {
-          "fleje": 1929.0,
-          "ptc": 1929.0,
-          "dinamica": 0.0
+          "fleje": 4369.0,
+          "ptc": 3058.3,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "marca": "Budweiser",
+      "sku": "Cerveza Budweiser 710 cc Budweiser",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 4559.0,
+          "ptc": 2963.35,
+          "dinamica": 0.35
+        },
+        "2026-08-09": {
+          "fleje": 4559.0,
+          "ptc": 2963.35,
+          "dinamica": 0.35
         }
       }
     },
@@ -64,25 +83,6 @@
           "fleje": 4059.0,
           "ptc": 2841.3,
           "dinamica": 0.3
-        }
-      }
-    },
-    {
-      "marca": "Amstel",
-      "sku": "Amstel Cerveza Lager Pura Malta Amstel",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3139.0,
-          "ptc": 3139.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 3179.0,
-          "ptc": 3179.0,
-          "dinamica": 0.0
         }
       }
     },
@@ -135,20 +135,6 @@
       }
     },
     {
-      "marca": "Schneider",
-      "sku": "Schneider Bebida Refrescante Remix Limón",
-      "calibre": "S/C",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-09": {
-          "fleje": 3079.0,
-          "ptc": 3079.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
       "marca": "Andes Origen",
       "sku": "Andes Origen Cerveza Negra en Lata Andes Origen",
       "calibre": "473",
@@ -164,6 +150,25 @@
           "fleje": 3679.0,
           "ptc": 2759.25,
           "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "marca": "Andes Origen",
+      "sku": "Cerveza Andes Origen Ipa 473 cc Andes Origen",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3679.0,
+          "ptc": 2207.4,
+          "dinamica": 0.4
+        },
+        "2026-08-09": {
+          "fleje": 3679.0,
+          "ptc": 2207.4,
+          "dinamica": 0.4
         }
       }
     },
@@ -209,9 +214,9 @@
           "dinamica": 0.4
         },
         "2026-08-09": {
-          "fleje": 7869.0,
-          "ptc": 5901.75,
-          "dinamica": 0.25
+          "fleje": 3589.0,
+          "ptc": 2153.4,
+          "dinamica": 0.4
         }
       }
     },
@@ -355,25 +360,6 @@
       }
     },
     {
-      "marca": "Salta Cautiva",
-      "sku": "Salta Cautiva Cerveza Rubia Salta Cautiva",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 3529.0,
-          "ptc": 3529.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 3519.0,
-          "ptc": 3519.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
       "marca": "Stella Artois",
       "sku": "Stella Artois Cerveza Stella Artois",
       "calibre": "330/355",
@@ -494,44 +480,6 @@
       }
     },
     {
-      "marca": "Grolsch",
-      "sku": "Grolsch Cerveza Pilsner Grolsch",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 4489.0,
-          "ptc": 4489.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 4629.0,
-          "ptc": 4629.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Heineken",
-      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 3569.0,
-          "ptc": 3569.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 3579.0,
-          "ptc": 3579.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
       "marca": "Heineken",
       "sku": "Heineken Cerveza Rubia en Lata Heineken",
       "calibre": "710/730",
@@ -549,9 +497,9 @@
           "dinamica": 0.15
         },
         "2026-08-09": {
-          "fleje": 4679.0,
-          "ptc": 4679.0,
-          "dinamica": 0.0
+          "fleje": 6879.0,
+          "ptc": 5847.15,
+          "dinamica": 0.15
         }
       }
     },
@@ -648,25 +596,6 @@
           "fleje": 3159.0,
           "ptc": 2685.15,
           "dinamica": 0.15
-        }
-      }
-    },
-    {
-      "marca": "Santa Fe",
-      "sku": "Santa Fe Cerveza Rubia Santa Fe",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Revisar",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 3069.0,
-          "ptc": 3069.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 3069.0,
-          "ptc": 3069.0,
-          "dinamica": 0.0
         }
       }
     },
@@ -844,6 +773,30 @@
     },
     {
       "marca": "Patagonia",
+      "sku": "Cerveza Patagonia Ipa 730 cc Patagonia",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 7729.0,
+          "ptc": 3864.5,
+          "dinamica": 0.5
+        },
+        "2026-08-06": {
+          "fleje": 7729.0,
+          "ptc": 3864.5,
+          "dinamica": 0.5
+        },
+        "2026-08-09": {
+          "fleje": 7729.0,
+          "ptc": 3864.5,
+          "dinamica": 0.5
+        }
+      }
+    },
+    {
+      "marca": "Patagonia",
       "sku": "Cerveza Patagonia Lager Del Sur 730 cc Patagonia",
       "calibre": "710/730",
       "grupo": "CMQ",
@@ -987,20 +940,6 @@
       }
     },
     {
-      "marca": "Antares",
-      "sku": "Ipa Cerveza Antares Especiales Sin Alcohol",
-      "calibre": "S/C",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-09": {
-          "fleje": 6779.0,
-          "ptc": 4745.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
       "marca": "Asahi",
       "sku": "Asahi Cerveza Dry Asahi",
       "calibre": "330/355",
@@ -1020,87 +959,6 @@
       }
     },
     {
-      "marca": "Bitburger",
-      "sku": "Bitburger Cerveza Bitburger",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 4969.0,
-          "ptc": 4969.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 5019.0,
-          "ptc": 5019.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Blue Moon",
-      "sku": "Blue Moon Belgian White Lata 473 ml Blue Moon",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 5299.0,
-          "ptc": 5299.0,
-          "dinamica": 0.0
-        },
-        "2026-08-06": {
-          "fleje": 5299.0,
-          "ptc": 5299.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 5299.0,
-          "ptc": 5299.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Estrella Galicia",
-      "sku": "Estrella Galicia Cerveza sin Gluten Lata 330ml",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-09": {
-          "fleje": 3649.0,
-          "ptc": 3649.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Estrella Galicia",
-      "sku": "Cerveza Estrella Galicia Lager 473 ml Estrella Galicia",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4379.0,
-          "ptc": 4379.0,
-          "dinamica": 0.0
-        },
-        "2026-08-06": {
-          "fleje": 4379.0,
-          "ptc": 4379.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 3999.0,
-          "ptc": 3999.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
       "marca": "Kostritzer",
       "sku": "Kostritzer Cerveza Schwarzbier Kostritzer",
       "calibre": "473",
@@ -1116,25 +974,6 @@
           "fleje": 7309.0,
           "ptc": 5847.2,
           "dinamica": 0.2
-        }
-      }
-    },
-    {
-      "marca": "Kunstmann",
-      "sku": "Kunstmann Torobayo Lata 470ml Kunstmann",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 5239.0,
-          "ptc": 5239.0,
-          "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 5219.0,
-          "ptc": 5219.0,
-          "dinamica": 0.0
         }
       }
     },
@@ -1225,34 +1064,20 @@
       }
     },
     {
-      "marca": "Warsteiner",
-      "sku": "Warsteiner Cerveza 330 ml",
+      "marca": "Brahma",
+      "sku": "Cerveza Brahma Chopp Lata 354mlx1 Brahma",
       "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Value",
+      "grupo": "CMQ",
+      "segmento": "Core",
       "dates": {
-        "2026-08-09": {
-          "fleje": 3509.0,
-          "ptc": 3509.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Warsteiner",
-      "sku": "Warsteiner Cerveza Rubia Warsteiner",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 3949.0,
-          "ptc": 3949.0,
+        "2026-08-05": {
+          "fleje": 1929.0,
+          "ptc": 1929.0,
           "dinamica": 0.0
         },
-        "2026-08-09": {
-          "fleje": 4029.0,
-          "ptc": 4029.0,
+        "2026-08-06": {
+          "fleje": 1899.0,
+          "ptc": 1899.0,
           "dinamica": 0.0
         }
       }
@@ -1272,25 +1097,6 @@
       }
     },
     {
-      "marca": "Brahma",
-      "sku": "Brahma Cerveza Chopp Brahma",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4329.0,
-          "ptc": 3030.3,
-          "dinamica": 0.3
-        },
-        "2026-08-06": {
-          "fleje": 4329.0,
-          "ptc": 3030.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
       "marca": "Budweiser",
       "sku": "Cerveza Budweiser 473 cc Budweiser",
       "calibre": "473",
@@ -1305,20 +1111,6 @@
       }
     },
     {
-      "marca": "Budweiser",
-      "sku": "Cerveza Budweiser 710 cc Budweiser",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4559.0,
-          "ptc": 2963.35,
-          "dinamica": 0.35
-        }
-      }
-    },
-    {
       "marca": "Quilmes",
       "sku": "Cerveza Quilmes Stout 473 cc Quilmes",
       "calibre": "473",
@@ -1329,6 +1121,20 @@
           "fleje": 2909.0,
           "ptc": 2181.75,
           "dinamica": 0.25
+        }
+      }
+    },
+    {
+      "marca": "Amstel",
+      "sku": "Amstel Cerveza Lager Pura Malta Amstel",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3139.0,
+          "ptc": 3139.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1371,20 +1177,6 @@
           "fleje": 5079.0,
           "ptc": 3301.35,
           "dinamica": 0.35
-        }
-      }
-    },
-    {
-      "marca": "Andes Origen",
-      "sku": "Cerveza Andes Origen Ipa 473 cc Andes Origen",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3679.0,
-          "ptc": 2207.4,
-          "dinamica": 0.4
         }
       }
     },
@@ -1593,6 +1385,20 @@
     },
     {
       "marca": "Salta Cautiva",
+      "sku": "Salta Cautiva Cerveza Rubia Salta Cautiva",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 3529.0,
+          "ptc": 3529.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Salta Cautiva",
       "sku": "Salta Cerveza Session Ipa Salta Cautiva",
       "calibre": "473",
       "grupo": "Competencia",
@@ -1616,6 +1422,34 @@
           "fleje": 6000.0,
           "ptc": 3900.0,
           "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Grolsch",
+      "sku": "Grolsch Cerveza Pilsner Grolsch",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 4489.0,
+          "ptc": 4489.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Heineken",
+      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 3569.0,
+          "ptc": 3569.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1701,6 +1535,20 @@
           "fleje": 3459.0,
           "ptc": 3113.1,
           "dinamica": 0.1
+        }
+      }
+    },
+    {
+      "marca": "Santa Fe",
+      "sku": "Santa Fe Cerveza Rubia Santa Fe",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 3069.0,
+          "ptc": 3069.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1804,25 +1652,6 @@
       }
     },
     {
-      "marca": "Patagonia",
-      "sku": "Cerveza Patagonia Ipa 730 cc Patagonia",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 7729.0,
-          "ptc": 3864.5,
-          "dinamica": 0.5
-        },
-        "2026-08-06": {
-          "fleje": 7729.0,
-          "ptc": 3864.5,
-          "dinamica": 0.5
-        }
-      }
-    },
-    {
       "marca": "Antares",
       "sku": "Antares Cerveza Lager Porron Antares",
       "calibre": "330/355",
@@ -1847,6 +1676,20 @@
           "fleje": 4749.0,
           "ptc": 3324.3,
           "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "marca": "Bitburger",
+      "sku": "Bitburger Cerveza Bitburger",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 4969.0,
+          "ptc": 4969.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1884,6 +1727,44 @@
       }
     },
     {
+      "marca": "Blue Moon",
+      "sku": "Blue Moon Belgian White Lata 473 ml Blue Moon",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 5299.0,
+          "ptc": 5299.0,
+          "dinamica": 0.0
+        },
+        "2026-08-06": {
+          "fleje": 5299.0,
+          "ptc": 5299.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Estrella Galicia",
+      "sku": "Cerveza Estrella Galicia Lager 473 ml Estrella Galicia",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 4379.0,
+          "ptc": 4379.0,
+          "dinamica": 0.0
+        },
+        "2026-08-06": {
+          "fleje": 4379.0,
+          "ptc": 4379.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
       "marca": "Guinness",
       "sku": "Cerveza Guinness Hop House Guinness",
       "calibre": "473",
@@ -1894,6 +1775,20 @@
           "fleje": 4089.0,
           "ptc": 2044.5,
           "dinamica": 0.5
+        }
+      }
+    },
+    {
+      "marca": "Kunstmann",
+      "sku": "Kunstmann Torobayo Lata 470ml Kunstmann",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 5239.0,
+          "ptc": 5239.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1913,6 +1808,20 @@
           "fleje": 2439.0,
           "ptc": 2073.15,
           "dinamica": 0.15
+        }
+      }
+    },
+    {
+      "marca": "Warsteiner",
+      "sku": "Warsteiner Cerveza Rubia Warsteiner",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 3949.0,
+          "ptc": 3949.0,
+          "dinamica": 0.0
         }
       }
     }
@@ -1940,8 +1849,8 @@
       "dias": 3,
       "dias_dinamica": 3,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.328125,
-      "avg_ptc": 4464.015625
+      "avg_dinamica": 0.3382352941176471,
+      "avg_ptc": 4428.75
     },
     {
       "marca": "Rabieta",
@@ -1970,8 +1879,8 @@
       "dias": 3,
       "dias_dinamica": 3,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.29500000000000004,
-      "avg_ptc": 2892.045
+      "avg_dinamica": 0.3181818181818182,
+      "avg_ptc": 2489.0454545454545
     },
     {
       "marca": "Imperial",
@@ -2001,7 +1910,17 @@
       "dias_dinamica": 3,
       "max_dinamica": 0.3,
       "avg_dinamica": 0.3,
-      "avg_ptc": 3165.633333333333
+      "avg_ptc": 3072.7117647058826
+    },
+    {
+      "marca": "Brahma",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 3,
+      "dias_dinamica": 3,
+      "max_dinamica": 0.3,
+      "avg_dinamica": 0.19166666666666665,
+      "avg_ptc": 2530.191666666667
     },
     {
       "marca": "Corona",
@@ -2020,8 +1939,8 @@
       "dias": 3,
       "dias_dinamica": 3,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.13999999999999999,
-      "avg_ptc": 4022.1400000000003
+      "avg_dinamica": 0.175,
+      "avg_ptc": 3870.425
     },
     {
       "marca": "Quilmes",
@@ -2044,6 +1963,16 @@
       "avg_ptc": 2667.28
     },
     {
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 3,
+      "dias_dinamica": 3,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.125,
+      "avg_ptc": 4474.25
+    },
+    {
       "marca": "1890",
       "grupo": "CMQ",
       "segmento": "Value",
@@ -2060,18 +1989,28 @@
       "dias": 3,
       "dias_dinamica": 3,
       "max_dinamica": 0.15,
-      "avg_dinamica": 0.11249999999999999,
-      "avg_ptc": 3559.2375
+      "avg_dinamica": 0.15,
+      "avg_ptc": 3719.316666666667
     },
     {
       "marca": "Salta Cautiva",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 3,
+      "dias": 2,
       "dias_dinamica": 2,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.16,
-      "avg_ptc": 2967.56
+      "avg_dinamica": 0.2,
+      "avg_ptc": 2829.7
+    },
+    {
+      "marca": "Budweiser",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 2,
+      "dias_dinamica": 2,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.31666666666666665,
+      "avg_ptc": 2767.816666666667
     },
     {
       "marca": "Michelob Ultra",
@@ -2082,16 +2021,6 @@
       "max_dinamica": 0.35,
       "avg_dinamica": 0.275,
       "avg_ptc": 2816.2749999999996
-    },
-    {
-      "marca": "Brahma",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dias": 3,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.3,
-      "avg_dinamica": 0.14166666666666666,
-      "avg_ptc": 2341.975
     },
     {
       "marca": "Corona 0",
@@ -2124,16 +2053,6 @@
       "avg_ptc": 4540.5
     },
     {
-      "marca": "Heineken",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dias": 3,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.2,
-      "avg_dinamica": 0.09444444444444444,
-      "avg_ptc": 4244.983333333334
-    },
-    {
       "marca": "Kostritzer",
       "grupo": "Competencia",
       "segmento": "Super Premium",
@@ -2164,16 +2083,6 @@
       "avg_ptc": 3301.35
     },
     {
-      "marca": "Budweiser",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dias": 1,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.3,
-      "avg_ptc": 2670.05
-    },
-    {
       "marca": "Starberg",
       "grupo": "Competencia",
       "segmento": "Revisar",
@@ -2187,31 +2096,31 @@
       "marca": "Amstel",
       "grupo": "Competencia",
       "segmento": "Core",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3612.3333333333335
+      "avg_ptc": 3829.0
     },
     {
       "marca": "Bitburger",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5265.666666666667
+      "avg_ptc": 5389.0
     },
     {
       "marca": "Blue Moon",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 3,
+      "dias": 2,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5535.0
+      "avg_ptc": 5594.0
     },
     {
       "marca": "Estrella Damm",
@@ -2227,21 +2136,21 @@
       "marca": "Estrella Galicia",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 3,
+      "dias": 2,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4101.5
+      "avg_ptc": 4379.0
     },
     {
       "marca": "Kunstmann",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5229.0
+      "avg_ptc": 5239.0
     },
     {
       "marca": "Salta",
@@ -2257,7 +2166,7 @@
       "marca": "Santa Fe",
       "grupo": "Competencia",
       "segmento": "Revisar",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
@@ -2267,11 +2176,11 @@
       "marca": "Warsteiner",
       "grupo": "Competencia",
       "segmento": "Value",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3829.0
+      "avg_ptc": 3949.0
     }
   ],
   "fights": [
@@ -2364,9 +2273,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-09 19:54:20",
-    "sku_rows": 99,
-    "registros_validos": 221,
+    "generado": "2026-08-09 21:13:43",
+    "sku_rows": 95,
+    "registros_validos": 204,
     "dias": 3
   }
 }

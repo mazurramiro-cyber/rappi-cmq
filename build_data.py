@@ -1,18 +1,10 @@
-"""
-build_data.py
-Convierte todos los CSV de la carpeta scrapeos/ en un unico data.json
-que lee la pagina (index.html). No necesita servidor.
-
-Uso:  py build_data.py     (genera data.json)
-"""
 import csv, json, re
 from pathlib import Path
 from datetime import datetime
-
+from collections import Counter
 BASE = Path(__file__).resolve().parent
 SCRAPEOS_DIR = BASE / "scrapeos"
 OUT_JSON = BASE / "data.json"
-
 CMQ = ["1890","Bajo Cero","Pilsen","Quilmes","Brahma","Budweiser","Andes Origen","Andes","Michelob Ultra","Stella Artois","Corona","Patagonia","Quilmes 0","Stella Artois 0","Corona 0"]
 COMP = ["Schneider","Amstel","Salta Cautiva","Salta","Imperial","Miller","Grolsch","Pampa","Heineken","Estrella Galicia","Blue Moon","Antares","Rabieta","Ortuzar","Cordoba","Warsteiner","Santa Fe","Starberg","Asahi","Kunstmann","Bitburger","Kostritzer","Guinness","Guinnes","Estrella Damm","Peroni","Sol","Temple","Goose Island"]
 ALL = sorted(set(CMQ+COMP), key=len, reverse=True)
@@ -28,7 +20,6 @@ FIGHTS = [
 ]
 BAD = ["pronto de vuelta","bebida refrescante remix","patrocinado","agregar"]
 STYLE = [("sin alcohol","0.0"),("0 0","0.0"),("cero","0.0"),("ipa","ipa"),("apa","apa"),("pale ale","apa"),("cream stout","stout"),("stout","stout"),("amber","amber"),("roja","roja"),("red","roja"),("negra","negra"),("noire","negra"),("golden","golden"),("oro","golden"),("dorada","golden"),("honey","honey"),("kolsch","kolsch"),("scotch","scotch"),("pure gold","puregold"),("session","session"),("pilsner","lager"),("pilsen","lager"),("rubia","rubia"),("lager","lager"),("chopp","rubia"),("clasica","rubia"),("original","rubia"),("light","light"),("ultra","light"),("belgian white","witbier"),("schwarzbier","negra"),("extra","lager")]
-
 def norm(s):
     s=(s or "").lower()
     for a,b in [("\u00e1","a"),("\u00e9","e"),("\u00ed","i"),("\u00f3","o"),("\u00fa","u"),("\u00f1","n")]: s=s.replace(a,b)
@@ -100,7 +91,6 @@ def fecha_fn(p):
     m=re.search(r"(\d{4})(\d{2})(\d{2})",p.name)
     if m: return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
     return datetime.fromtimestamp(p.stat().st_mtime).strftime("%Y-%m-%d")
-
 def read_csv(path,fecha):
     rows=[]
     with path.open("r",encoding="utf-8-sig",newline="") as f:
@@ -123,19 +113,31 @@ def read_csv(path,fecha):
             ptc=round(fleje*(1-d),2) if fleje is not None else numf(rec.get("precio"))
             rows.append({"fecha":fecha,"marca":marca,"sku":sku,"calibre":cal,"grupo":grupo(marca),"segmento":seg(marca),"fleje":fleje,"ptc":ptc,"dinamica":d,"sig":f"{marca}|{cal}|{style_of(texto)}"})
     return rows
-
 def build():
     csvs=sorted(SCRAPEOS_DIR.glob("rappi_cervezas_*.csv"))
-    by={}; dates=set(); tot=0
+    todas=[]; dates=set(); tot=0
     for p in csvs:
         fecha=fecha_fn(p); dates.add(fecha)
         for r in read_csv(p,fecha):
-            tot+=1; sig=r["sig"]
-            e=by.setdefault(sig,{"marca":r["marca"],"sku":r["sku"],"calibre":r["calibre"],"grupo":r["grupo"],"segmento":r["segmento"],"dates":{}})
-            if len(r["sku"])>len(e["sku"]): e["sku"]=r["sku"]
-            old=e["dates"].get(fecha)
-            if old is None or ((r["ptc"] or 1e18)<(old.get("ptc") or 1e18)):
-                e["dates"][fecha]={"fleje":r["fleje"],"ptc":r["ptc"],"dinamica":r["dinamica"]}
+            tot+=1; todas.append(r)
+    # fallback de calibre: (marca, estilo) -> calibre mas comun visto con calibre
+    cal_map={}
+    for r in todas:
+        if r["calibre"]!="S/C":
+            k=(r["marca"], r["sig"].split("|")[-1]); cal_map.setdefault(k,Counter())[r["calibre"]]+=1
+    for r in todas:
+        if r["calibre"]=="S/C":
+            est=r["sig"].split("|")[-1]; c=cal_map.get((r["marca"],est))
+            if c:
+                fb=c.most_common(1)[0][0]; r["calibre"]=fb; r["sig"]=f'{r["marca"]}|{fb}|{est}'
+    by={}
+    for r in todas:
+        sig=r["sig"]
+        e=by.setdefault(sig,{"marca":r["marca"],"sku":r["sku"],"calibre":r["calibre"],"grupo":r["grupo"],"segmento":r["segmento"],"dates":{}})
+        if len(r["sku"])>len(e["sku"]): e["sku"]=r["sku"]
+        fecha=r["fecha"]; old=e["dates"].get(fecha)
+        if old is None or ((r["ptc"] or 1e18)<(old.get("ptc") or 1e18)):
+            e["dates"][fecha]={"fleje":r["fleje"],"ptc":r["ptc"],"dinamica":r["dinamica"]}
     pivot=list(by.values()); dates=sorted(dates); ult=dates[-1] if dates else None
     pivot.sort(key=lambda x:(0 if (ult and ult in x["dates"]) else 1,x["segmento"],x["grupo"]!="CMQ",x["marca"],x["calibre"],x["sku"]))
     stats=[]
@@ -152,7 +154,6 @@ def build():
     payload={"pivot":pivot,"dates":dates,"stats":stats,"fights":FIGHTS,"meta":{"generado":datetime.now().strftime("%Y-%m-%d %H:%M:%S"),"sku_rows":len(pivot),"registros_validos":tot,"dias":len(dates)}}
     OUT_JSON.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8")
     return payload
-
 if __name__=="__main__":
     d=build()
     print("[OK] data.json generado")
