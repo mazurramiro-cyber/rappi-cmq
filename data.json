@@ -31,6 +31,11 @@
           "fleje": 1899.0,
           "ptc": 1709.1,
           "dinamica": 0.1
+        },
+        "2026-08-12": {
+          "fleje": 1929.0,
+          "ptc": 1736.1,
+          "dinamica": 0.1
         }
       }
     },
@@ -52,6 +57,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 4319.0,
+          "ptc": 3455.2,
+          "dinamica": 0.2
+        },
+        "2026-08-12": {
           "fleje": 4319.0,
           "ptc": 3455.2,
           "dinamica": 0.2
@@ -81,6 +91,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 2869.0,
+          "ptc": 2869.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 2869.0,
           "ptc": 2869.0,
           "dinamica": 0.0
@@ -118,6 +133,11 @@
           "fleje": 4059.0,
           "ptc": 3247.2,
           "dinamica": 0.2
+        },
+        "2026-08-12": {
+          "fleje": 4059.0,
+          "ptc": 3247.2,
+          "dinamica": 0.2
         }
       }
     },
@@ -142,6 +162,11 @@
           "fleje": 3199.0,
           "ptc": 2239.3,
           "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3189.0,
+          "ptc": 2232.3,
+          "dinamica": 0.3
         }
       }
     },
@@ -158,6 +183,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 4529.0,
+          "ptc": 2943.85,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
           "fleje": 4529.0,
           "ptc": 2943.85,
           "dinamica": 0.35
@@ -195,6 +225,11 @@
           "fleje": 3529.0,
           "ptc": 3529.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 3529.0,
+          "ptc": 2293.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -209,6 +244,11 @@
           "fleje": 3619.0,
           "ptc": 2895.2,
           "dinamica": 0.2
+        },
+        "2026-08-12": {
+          "fleje": 3609.0,
+          "ptc": 2345.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -228,6 +268,45 @@
           "fleje": 3079.0,
           "ptc": 3079.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 3079.0,
+          "ptc": 3079.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Schneider",
+      "sku": "Schneider Cerveza Lager Schneider",
+      "calibre": "710/730",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 4359.0,
+          "ptc": 3705.15,
+          "dinamica": 0.15
+        },
+        "2026-08-06": {
+          "fleje": 4359.0,
+          "ptc": 3705.15,
+          "dinamica": 0.15
+        },
+        "2026-08-09": {
+          "fleje": 4409.0,
+          "ptc": 3747.65,
+          "dinamica": 0.15
+        },
+        "2026-08-10": {
+          "fleje": 4359.0,
+          "ptc": 2833.35,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 4369.0,
+          "ptc": 3713.65,
+          "dinamica": 0.15
         }
       }
     },
@@ -256,6 +335,11 @@
         "2026-08-11": {
           "fleje": 3679.0,
           "ptc": 2391.35,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 3789.0,
+          "ptc": 2462.85,
           "dinamica": 0.35
         }
       }
@@ -288,6 +372,11 @@
           "dinamica": 0.35
         },
         "2026-08-11": {
+          "fleje": 3519.0,
+          "ptc": 2287.35,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
           "fleje": 3519.0,
           "ptc": 2287.35,
           "dinamica": 0.35
@@ -325,6 +414,11 @@
           "fleje": 3399.0,
           "ptc": 2379.3,
           "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3689.0,
+          "ptc": 2397.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -339,20 +433,78 @@
           "fleje": 7899.0,
           "ptc": 5924.25,
           "dinamica": 0.25
+        },
+        "2026-08-12": {
+          "fleje": 7899.0,
+          "ptc": 5134.35,
+          "dinamica": 0.35
         }
       }
     },
     {
-      "marca": "Michelob Ultra",
-      "sku": "Michelob Ultra Cerveza",
-      "calibre": "275",
-      "grupo": "CMQ",
+      "marca": "Estrella Damm",
+      "sku": "Estrella Damm Cerveza Estrella Damm",
+      "calibre": "473",
+      "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
-        "2026-08-11": {
-          "fleje": 4279.0,
-          "ptc": 2995.3,
+        "2026-08-05": {
+          "fleje": 2639.0,
+          "ptc": 2639.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 2639.0,
+          "ptc": 2639.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Imperial",
+      "sku": "Imperial Cerveza Golden Imperial",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3989.0,
+          "ptc": 2792.3,
           "dinamica": 0.3
+        },
+        "2026-08-06": {
+          "fleje": 3969.0,
+          "ptc": 2778.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3969.0,
+          "ptc": 3969.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Imperial",
+      "sku": "Imperial Apa Cerveza American Pale Ale Rubia Imperial",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3769.0,
+          "ptc": 2638.3,
+          "dinamica": 0.3
+        },
+        "2026-08-06": {
+          "fleje": 3769.0,
+          "ptc": 2638.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3759.0,
+          "ptc": 3759.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -384,6 +536,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 3629.0,
+          "ptc": 3629.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 3629.0,
           "ptc": 3629.0,
           "dinamica": 0.0
@@ -421,6 +578,11 @@
           "fleje": 3809.0,
           "ptc": 3237.65,
           "dinamica": 0.15
+        },
+        "2026-08-12": {
+          "fleje": 3819.0,
+          "ptc": 3246.15,
+          "dinamica": 0.15
         }
       }
     },
@@ -442,6 +604,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 3589.0,
+          "ptc": 3589.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 3589.0,
           "ptc": 3589.0,
           "dinamica": 0.0
@@ -479,6 +646,35 @@
           "fleje": 3779.0,
           "ptc": 3779.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 3799.0,
+          "ptc": 3799.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Imperial",
+      "sku": "Imperial Cerveza Roja Amber Lager Lata Imperial",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3759.0,
+          "ptc": 2631.3,
+          "dinamica": 0.3
+        },
+        "2026-08-06": {
+          "fleje": 3759.0,
+          "ptc": 2631.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3759.0,
+          "ptc": 3759.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -513,6 +709,11 @@
           "fleje": 5119.0,
           "ptc": 4351.15,
           "dinamica": 0.15
+        },
+        "2026-08-12": {
+          "fleje": 5119.0,
+          "ptc": 4351.15,
+          "dinamica": 0.15
         }
       }
     },
@@ -532,6 +733,11 @@
           "fleje": 4386.08,
           "ptc": 4386.08,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 4384.52,
+          "ptc": 4384.52,
+          "dinamica": 0.0
         }
       }
     },
@@ -548,6 +754,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 3979.0,
+          "ptc": 3979.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 3979.0,
           "ptc": 3979.0,
           "dinamica": 0.0
@@ -585,6 +796,11 @@
           "fleje": 6469.0,
           "ptc": 6469.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 6469.0,
+          "ptc": 6469.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -606,6 +822,11 @@
           "dinamica": 0.15
         },
         "2026-08-11": {
+          "fleje": 5949.0,
+          "ptc": 5056.65,
+          "dinamica": 0.15
+        },
+        "2026-08-12": {
           "fleje": 5949.0,
           "ptc": 5056.65,
           "dinamica": 0.15
@@ -633,19 +854,10 @@
           "fleje": 3519.0,
           "ptc": 3519.0,
           "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Stella Artois",
-      "sku": "Stella Artois Cerveza Pure Gold",
-      "calibre": "330/355",
-      "grupo": "CMQ",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-11": {
-          "fleje": 4949.0,
-          "ptc": 3216.85,
+        },
+        "2026-08-12": {
+          "fleje": 3519.0,
+          "ptc": 2287.35,
           "dinamica": 0.35
         }
       }
@@ -681,6 +893,11 @@
           "fleje": 4489.0,
           "ptc": 2917.85,
           "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 4489.0,
+          "ptc": 2693.4,
+          "dinamica": 0.4
         }
       }
     },
@@ -715,6 +932,64 @@
           "fleje": 4409.0,
           "ptc": 2865.85,
           "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 4409.0,
+          "ptc": 2865.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Stella Artois",
+      "sku": "Stella Artois Cerveza Pure Gold Stella Artois",
+      "calibre": "473",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        },
+        "2026-08-06": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        },
+        "2026-08-09": {
+          "fleje": 4979.0,
+          "ptc": 3734.25,
+          "dinamica": 0.25
+        },
+        "2026-08-10": {
+          "fleje": 4989.0,
+          "ptc": 3242.85,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Stella Artois",
+      "sku": "Stella Artois Cerveza 710 ml Stella Artois",
+      "calibre": "710/730",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 6000.0,
+          "ptc": 3900.0,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 6000.0,
+          "ptc": 3900.0,
+          "dinamica": 0.35
         }
       }
     },
@@ -746,6 +1021,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 6859.0,
+          "ptc": 6859.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 6859.0,
           "ptc": 6859.0,
           "dinamica": 0.0
@@ -783,6 +1063,11 @@
           "fleje": 4809.0,
           "ptc": 3847.2,
           "dinamica": 0.2
+        },
+        "2026-08-12": {
+          "fleje": 4809.0,
+          "ptc": 3847.2,
+          "dinamica": 0.2
         }
       }
     },
@@ -807,30 +1092,11 @@
           "fleje": 4489.0,
           "ptc": 3366.75,
           "dinamica": 0.25
-        }
-      }
-    },
-    {
-      "marca": "Heineken",
-      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 3569.0,
-          "ptc": 3569.0,
-          "dinamica": 0.0
         },
-        "2026-08-10": {
-          "fleje": 3579.0,
-          "ptc": 3579.0,
-          "dinamica": 0.0
-        },
-        "2026-08-11": {
-          "fleje": 3569.0,
-          "ptc": 3569.0,
-          "dinamica": 0.0
+        "2026-08-12": {
+          "fleje": 4489.0,
+          "ptc": 3366.75,
+          "dinamica": 0.25
         }
       }
     },
@@ -847,6 +1113,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 4849.0,
+          "ptc": 4849.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 4849.0,
           "ptc": 4849.0,
           "dinamica": 0.0
@@ -869,6 +1140,35 @@
           "fleje": 4559.0,
           "ptc": 4559.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 4579.0,
+          "ptc": 4579.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Heineken",
+      "sku": "Heineken Cerveza Sin Alcohol Heineken",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3709.0,
+          "ptc": 2967.2,
+          "dinamica": 0.2
+        },
+        "2026-08-06": {
+          "fleje": 3719.0,
+          "ptc": 2975.2,
+          "dinamica": 0.2
+        },
+        "2026-08-12": {
+          "fleje": 3719.0,
+          "ptc": 2975.2,
+          "dinamica": 0.2
         }
       }
     },
@@ -903,6 +1203,11 @@
           "fleje": 6879.0,
           "ptc": 5847.15,
           "dinamica": 0.15
+        },
+        "2026-08-12": {
+          "fleje": 6869.0,
+          "ptc": 5838.65,
+          "dinamica": 0.15
         }
       }
     },
@@ -934,6 +1239,11 @@
           "dinamica": 0.5
         },
         "2026-08-11": {
+          "fleje": 3009.0,
+          "ptc": 1504.5,
+          "dinamica": 0.5
+        },
+        "2026-08-12": {
           "fleje": 3009.0,
           "ptc": 1504.5,
           "dinamica": 0.5
@@ -971,6 +1281,11 @@
           "fleje": 3209.0,
           "ptc": 2085.85,
           "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 3219.0,
+          "ptc": 2092.35,
+          "dinamica": 0.35
         }
       }
     },
@@ -1005,6 +1320,59 @@
           "fleje": 3129.0,
           "ptc": 1877.4,
           "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 3129.0,
+          "ptc": 3129.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Pampa",
+      "sku": "Pampa Brewing Cerveza IPA Lata 473 ml Pampa",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3469.0,
+          "ptc": 3122.1,
+          "dinamica": 0.1
+        },
+        "2026-08-06": {
+          "fleje": 3469.0,
+          "ptc": 1734.5,
+          "dinamica": 0.5
+        },
+        "2026-08-12": {
+          "fleje": 3509.0,
+          "ptc": 2280.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Pampa",
+      "sku": "Pampa Brewing Nitro Cream Stout 473ml Pampa",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 3459.0,
+          "ptc": 3113.1,
+          "dinamica": 0.1
+        },
+        "2026-08-06": {
+          "fleje": 3459.0,
+          "ptc": 3113.1,
+          "dinamica": 0.1
+        },
+        "2026-08-12": {
+          "fleje": 3469.0,
+          "ptc": 2428.3,
+          "dinamica": 0.3
         }
       }
     },
@@ -1039,6 +1407,11 @@
           "fleje": 3169.0,
           "ptc": 1901.4,
           "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 3169.0,
+          "ptc": 3169.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1052,6 +1425,11 @@
         "2026-08-11": {
           "fleje": 5039.0,
           "ptc": 5039.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 5049.0,
+          "ptc": 5049.0,
           "dinamica": 0.0
         }
       }
@@ -1077,6 +1455,11 @@
           "fleje": 3009.0,
           "ptc": 3009.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 3009.0,
+          "ptc": 1955.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -1105,6 +1488,11 @@
         "2026-08-11": {
           "fleje": 3829.0,
           "ptc": 2297.4,
+          "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 3819.0,
+          "ptc": 2291.4,
           "dinamica": 0.4
         }
       }
@@ -1135,6 +1523,11 @@
           "fleje": 2369.0,
           "ptc": 1421.4,
           "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 2369.0,
+          "ptc": 1421.4,
+          "dinamica": 0.4
         }
       }
     },
@@ -1158,6 +1551,11 @@
         "2026-08-11": {
           "fleje": 3619.0,
           "ptc": 2171.4,
+          "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 3589.0,
+          "ptc": 2153.4,
           "dinamica": 0.4
         }
       }
@@ -1190,6 +1588,11 @@
           "dinamica": 0.4
         },
         "2026-08-11": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
           "fleje": 3719.0,
           "ptc": 2417.35,
           "dinamica": 0.35
@@ -1227,6 +1630,11 @@
           "fleje": 4989.0,
           "ptc": 3741.75,
           "dinamica": 0.25
+        },
+        "2026-08-12": {
+          "fleje": 4989.0,
+          "ptc": 3242.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -1248,6 +1656,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 3609.0,
+          "ptc": 2165.4,
+          "dinamica": 0.4
+        },
+        "2026-08-12": {
           "fleje": 3609.0,
           "ptc": 2165.4,
           "dinamica": 0.4
@@ -1274,6 +1687,11 @@
         "2026-08-11": {
           "fleje": 5469.0,
           "ptc": 3554.85,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 5669.0,
+          "ptc": 3684.85,
           "dinamica": 0.35
         }
       }
@@ -1306,6 +1724,11 @@
           "dinamica": 0.35
         },
         "2026-08-11": {
+          "fleje": 5439.0,
+          "ptc": 3535.35,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
           "fleje": 5439.0,
           "ptc": 3535.35,
           "dinamica": 0.35
@@ -1343,6 +1766,11 @@
           "fleje": 5439.0,
           "ptc": 5439.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 5439.0,
+          "ptc": 5439.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1374,6 +1802,11 @@
           "dinamica": 0.35
         },
         "2026-08-11": {
+          "fleje": 7749.0,
+          "ptc": 5036.85,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
           "fleje": 7749.0,
           "ptc": 5036.85,
           "dinamica": 0.35
@@ -1411,6 +1844,40 @@
           "fleje": 7739.0,
           "ptc": 5030.35,
           "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 7739.0,
+          "ptc": 5030.35,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Antares",
+      "sku": "Antares Cerveza Artesanal Honey Antares",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-05": {
+          "fleje": 4529.0,
+          "ptc": 3170.3,
+          "dinamica": 0.3
+        },
+        "2026-08-06": {
+          "fleje": 4529.0,
+          "ptc": 3170.3,
+          "dinamica": 0.3
+        },
+        "2026-08-09": {
+          "fleje": 4529.0,
+          "ptc": 3170.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 4529.0,
+          "ptc": 3170.3,
+          "dinamica": 0.3
         }
       }
     },
@@ -1442,6 +1909,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 4519.0,
+          "ptc": 3163.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
           "fleje": 4519.0,
           "ptc": 3163.3,
           "dinamica": 0.3
@@ -1479,6 +1951,11 @@
           "fleje": 3839.0,
           "ptc": 2687.3,
           "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 3839.0,
+          "ptc": 2687.3,
+          "dinamica": 0.3
         }
       }
     },
@@ -1510,6 +1987,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 4569.0,
+          "ptc": 3198.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
           "fleje": 4569.0,
           "ptc": 3198.3,
           "dinamica": 0.3
@@ -1547,6 +2029,11 @@
           "fleje": 4549.0,
           "ptc": 3184.3,
           "dinamica": 0.3
+        },
+        "2026-08-12": {
+          "fleje": 4539.0,
+          "ptc": 3177.3,
+          "dinamica": 0.3
         }
       }
     },
@@ -1563,6 +2050,11 @@
           "dinamica": 0.3
         },
         "2026-08-11": {
+          "fleje": 6779.0,
+          "ptc": 4745.3,
+          "dinamica": 0.3
+        },
+        "2026-08-12": {
           "fleje": 6779.0,
           "ptc": 4745.3,
           "dinamica": 0.3
@@ -1595,6 +2087,11 @@
           "fleje": 6129.0,
           "ptc": 6129.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 6129.0,
+          "ptc": 6129.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1619,6 +2116,11 @@
           "fleje": 4919.0,
           "ptc": 4919.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 4919.0,
+          "ptc": 4919.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1635,6 +2137,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 5709.0,
+          "ptc": 5709.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 5709.0,
           "ptc": 5709.0,
           "dinamica": 0.0
@@ -1662,6 +2169,11 @@
           "fleje": 5889.0,
           "ptc": 5889.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 5889.0,
+          "ptc": 3827.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -1691,6 +2203,11 @@
           "fleje": 5299.0,
           "ptc": 5299.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 5299.0,
+          "ptc": 3444.35,
+          "dinamica": 0.35
         }
       }
     },
@@ -1707,6 +2224,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 4059.0,
+          "ptc": 4059.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 4059.0,
           "ptc": 4059.0,
           "dinamica": 0.0
@@ -1729,6 +2251,30 @@
           "fleje": 3649.0,
           "ptc": 3649.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 3649.0,
+          "ptc": 3649.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Guinness",
+      "sku": "Cerveza Guinness Hop House Guinness",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 4089.0,
+          "ptc": 2044.5,
+          "dinamica": 0.5
+        },
+        "2026-08-12": {
+          "fleje": 4089.0,
+          "ptc": 2453.4,
+          "dinamica": 0.4
         }
       }
     },
@@ -1758,6 +2304,11 @@
           "fleje": 7109.0,
           "ptc": 5687.2,
           "dinamica": 0.2
+        },
+        "2026-08-12": {
+          "fleje": 7109.0,
+          "ptc": 5687.2,
+          "dinamica": 0.2
         }
       }
     },
@@ -1774,6 +2325,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 5049.0,
+          "ptc": 5049.0,
+          "dinamica": 0.0
+        },
+        "2026-08-12": {
           "fleje": 5049.0,
           "ptc": 5049.0,
           "dinamica": 0.0
@@ -1801,40 +2357,40 @@
           "fleje": 5209.0,
           "ptc": 5209.0,
           "dinamica": 0.0
+        },
+        "2026-08-12": {
+          "fleje": 5209.0,
+          "ptc": 5209.0,
+          "dinamica": 0.0
         }
       }
     },
     {
       "marca": "Rabieta",
-      "sku": "Rabieta Cerveza Golden Ale Rabieta",
+      "sku": "Rabieta Cerveza American Ipa Rabieta",
       "calibre": "473",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
         "2026-08-05": {
-          "fleje": 4059.0,
-          "ptc": 3247.2,
-          "dinamica": 0.2
+          "fleje": 4559.0,
+          "ptc": 4103.1,
+          "dinamica": 0.1
         },
         "2026-08-06": {
-          "fleje": 4059.0,
-          "ptc": 3247.2,
-          "dinamica": 0.2
+          "fleje": 4559.0,
+          "ptc": 2279.5,
+          "dinamica": 0.5
         },
         "2026-08-09": {
-          "fleje": 4059.0,
-          "ptc": 2435.4,
+          "fleje": 4549.0,
+          "ptc": 2729.4,
           "dinamica": 0.4
         },
-        "2026-08-10": {
-          "fleje": 4059.0,
-          "ptc": 2232.45,
-          "dinamica": 0.45
-        },
-        "2026-08-11": {
-          "fleje": 4059.0,
-          "ptc": 2029.5,
-          "dinamica": 0.5
+        "2026-08-12": {
+          "fleje": 4549.0,
+          "ptc": 4549.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1854,6 +2410,11 @@
           "fleje": 4059.0,
           "ptc": 2029.5,
           "dinamica": 0.5
+        },
+        "2026-08-12": {
+          "fleje": 4059.0,
+          "ptc": 4059.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -1888,6 +2449,11 @@
           "fleje": 4089.0,
           "ptc": 2453.4,
           "dinamica": 0.4
+        },
+        "2026-08-12": {
+          "fleje": 4059.0,
+          "ptc": 3653.1,
+          "dinamica": 0.1
         }
       }
     },
@@ -1912,25 +2478,11 @@
           "fleje": 2439.0,
           "ptc": 2195.1,
           "dinamica": 0.1
-        }
-      }
-    },
-    {
-      "marca": "Warsteiner",
-      "sku": "Warsteiner Cerveza 330 ml",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dates": {
-        "2026-08-10": {
-          "fleje": 3509.0,
-          "ptc": 3509.0,
-          "dinamica": 0.0
         },
-        "2026-08-11": {
-          "fleje": 3509.0,
-          "ptc": 3509.0,
-          "dinamica": 0.0
+        "2026-08-12": {
+          "fleje": 2439.0,
+          "ptc": 2195.1,
+          "dinamica": 0.1
         }
       }
     },
@@ -1952,6 +2504,11 @@
           "dinamica": 0.0
         },
         "2026-08-11": {
+          "fleje": 3949.0,
+          "ptc": 2961.75,
+          "dinamica": 0.25
+        },
+        "2026-08-12": {
           "fleje": 3949.0,
           "ptc": 2961.75,
           "dinamica": 0.25
@@ -2034,35 +2591,6 @@
       }
     },
     {
-      "marca": "Schneider",
-      "sku": "Schneider Cerveza Lager Schneider",
-      "calibre": "710/730",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4359.0,
-          "ptc": 3705.15,
-          "dinamica": 0.15
-        },
-        "2026-08-06": {
-          "fleje": 4359.0,
-          "ptc": 3705.15,
-          "dinamica": 0.15
-        },
-        "2026-08-09": {
-          "fleje": 4409.0,
-          "ptc": 3747.65,
-          "dinamica": 0.15
-        },
-        "2026-08-10": {
-          "fleje": 4359.0,
-          "ptc": 2833.35,
-          "dinamica": 0.35
-        }
-      }
-    },
-    {
       "marca": "Andes",
       "sku": "Cerveza Andes Origen Rubia 710 cc Andes",
       "calibre": "710/730",
@@ -2111,6 +2639,20 @@
     },
     {
       "marca": "Michelob Ultra",
+      "sku": "Michelob Ultra Cerveza",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-11": {
+          "fleje": 4279.0,
+          "ptc": 2995.3,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
+      "marca": "Michelob Ultra",
       "sku": "Michelob Cerveza Light Ultra Michelob Ultra",
       "calibre": "473",
       "grupo": "CMQ",
@@ -2149,77 +2691,6 @@
           "fleje": 2359.0,
           "ptc": 2359.0,
           "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Estrella Damm",
-      "sku": "Estrella Damm Cerveza Estrella Damm",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 2639.0,
-          "ptc": 2639.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Imperial",
-      "sku": "Imperial Cerveza Golden Imperial",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3989.0,
-          "ptc": 2792.3,
-          "dinamica": 0.3
-        },
-        "2026-08-06": {
-          "fleje": 3969.0,
-          "ptc": 2778.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
-      "marca": "Imperial",
-      "sku": "Imperial Apa Cerveza American Pale Ale Rubia Imperial",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3769.0,
-          "ptc": 2638.3,
-          "dinamica": 0.3
-        },
-        "2026-08-06": {
-          "fleje": 3769.0,
-          "ptc": 2638.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
-      "marca": "Imperial",
-      "sku": "Imperial Cerveza Roja Amber Lager Lata Imperial",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3759.0,
-          "ptc": 2631.3,
-          "dinamica": 0.3
-        },
-        "2026-08-06": {
-          "fleje": 3759.0,
-          "ptc": 2631.3,
-          "dinamica": 0.3
         }
       }
     },
@@ -2272,101 +2743,39 @@
     },
     {
       "marca": "Stella Artois",
-      "sku": "Stella Artois Cerveza Pure Gold Stella Artois",
-      "calibre": "473",
+      "sku": "Stella Artois Cerveza Pure Gold",
+      "calibre": "330/355",
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
-        "2026-08-05": {
-          "fleje": 3719.0,
-          "ptc": 2417.35,
-          "dinamica": 0.35
-        },
-        "2026-08-06": {
-          "fleje": 3719.0,
-          "ptc": 2417.35,
-          "dinamica": 0.35
-        },
-        "2026-08-09": {
-          "fleje": 4979.0,
-          "ptc": 3734.25,
-          "dinamica": 0.25
-        },
-        "2026-08-10": {
-          "fleje": 4989.0,
-          "ptc": 3242.85,
-          "dinamica": 0.35
-        }
-      }
-    },
-    {
-      "marca": "Stella Artois",
-      "sku": "Stella Artois Cerveza 710 ml Stella Artois",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 6000.0,
-          "ptc": 3900.0,
+        "2026-08-11": {
+          "fleje": 4949.0,
+          "ptc": 3216.85,
           "dinamica": 0.35
         }
       }
     },
     {
       "marca": "Heineken",
-      "sku": "Heineken Cerveza Sin Alcohol Heineken",
-      "calibre": "473",
+      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
+      "calibre": "330/355",
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
-        "2026-08-05": {
-          "fleje": 3709.0,
-          "ptc": 2967.2,
-          "dinamica": 0.2
-        },
         "2026-08-06": {
-          "fleje": 3719.0,
-          "ptc": 2975.2,
-          "dinamica": 0.2
-        }
-      }
-    },
-    {
-      "marca": "Pampa",
-      "sku": "Pampa Brewing Cerveza IPA Lata 473 ml Pampa",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3469.0,
-          "ptc": 3122.1,
-          "dinamica": 0.1
+          "fleje": 3569.0,
+          "ptc": 3569.0,
+          "dinamica": 0.0
         },
-        "2026-08-06": {
-          "fleje": 3469.0,
-          "ptc": 1734.5,
-          "dinamica": 0.5
-        }
-      }
-    },
-    {
-      "marca": "Pampa",
-      "sku": "Pampa Brewing Nitro Cream Stout 473ml Pampa",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 3459.0,
-          "ptc": 3113.1,
-          "dinamica": 0.1
+        "2026-08-10": {
+          "fleje": 3579.0,
+          "ptc": 3579.0,
+          "dinamica": 0.0
         },
-        "2026-08-06": {
-          "fleje": 3459.0,
-          "ptc": 3113.1,
-          "dinamica": 0.1
+        "2026-08-11": {
+          "fleje": 3569.0,
+          "ptc": 3569.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -2471,30 +2880,6 @@
     },
     {
       "marca": "Antares",
-      "sku": "Antares Cerveza Artesanal Honey Antares",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4529.0,
-          "ptc": 3170.3,
-          "dinamica": 0.3
-        },
-        "2026-08-06": {
-          "fleje": 4529.0,
-          "ptc": 3170.3,
-          "dinamica": 0.3
-        },
-        "2026-08-09": {
-          "fleje": 4529.0,
-          "ptc": 3170.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
-      "marca": "Antares",
       "sku": "Antares Cerveza Especiales Xpa Antares",
       "calibre": "473",
       "grupo": "Competencia",
@@ -2527,40 +2912,36 @@
       }
     },
     {
-      "marca": "Guinness",
-      "sku": "Cerveza Guinness Hop House Guinness",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 4089.0,
-          "ptc": 2044.5,
-          "dinamica": 0.5
-        }
-      }
-    },
-    {
       "marca": "Rabieta",
-      "sku": "Rabieta Cerveza American Ipa Rabieta",
+      "sku": "Rabieta Cerveza Golden Ale Rabieta",
       "calibre": "473",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
         "2026-08-05": {
-          "fleje": 4559.0,
-          "ptc": 4103.1,
-          "dinamica": 0.1
+          "fleje": 4059.0,
+          "ptc": 3247.2,
+          "dinamica": 0.2
         },
         "2026-08-06": {
-          "fleje": 4559.0,
-          "ptc": 2279.5,
-          "dinamica": 0.5
+          "fleje": 4059.0,
+          "ptc": 3247.2,
+          "dinamica": 0.2
         },
         "2026-08-09": {
-          "fleje": 4549.0,
-          "ptc": 2729.4,
+          "fleje": 4059.0,
+          "ptc": 2435.4,
           "dinamica": 0.4
+        },
+        "2026-08-10": {
+          "fleje": 4059.0,
+          "ptc": 2232.45,
+          "dinamica": 0.45
+        },
+        "2026-08-11": {
+          "fleje": 4059.0,
+          "ptc": 2029.5,
+          "dinamica": 0.5
         }
       }
     },
@@ -2582,6 +2963,25 @@
           "dinamica": 0.1
         }
       }
+    },
+    {
+      "marca": "Warsteiner",
+      "sku": "Warsteiner Cerveza 330 ml",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dates": {
+        "2026-08-10": {
+          "fleje": 3509.0,
+          "ptc": 3509.0,
+          "dinamica": 0.0
+        },
+        "2026-08-11": {
+          "fleje": 3509.0,
+          "ptc": 3509.0,
+          "dinamica": 0.0
+        }
+      }
     }
   ],
   "dates": [
@@ -2589,168 +2989,199 @@
     "2026-08-06",
     "2026-08-09",
     "2026-08-10",
-    "2026-08-11"
+    "2026-08-11",
+    "2026-08-12"
   ],
   "stats": [
     {
       "marca": "Patagonia",
       "grupo": "CMQ",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.95,
-      "avg_dinamica": 0.35185185185185186,
-      "avg_ptc": 4274.277777777777
+      "avg_dinamica": 0.340625,
+      "avg_ptc": 4316.621875
     },
     {
       "marca": "Pampa",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.2791666666666667,
-      "avg_ptc": 2304.008333333333
+      "avg_dinamica": 0.2733333333333333,
+      "avg_ptc": 2330.0066666666667
     },
     {
       "marca": "Rabieta",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.32333333333333336,
-      "avg_ptc": 2816.4566666666665
+      "avg_dinamica": 0.275,
+      "avg_ptc": 3028.2194444444444
     },
     {
       "marca": "Stella Artois",
       "grupo": "CMQ",
       "segmento": "Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.29047619047619044,
-      "avg_ptc": 3664.4166666666665
+      "avg_dinamica": 0.29038461538461535,
+      "avg_ptc": 3680.321153846154
     },
     {
       "marca": "Miller",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.45,
-      "avg_dinamica": 0.10833333333333334,
-      "avg_ptc": 4762.645833333333
+      "avg_dinamica": 0.090625,
+      "avg_ptc": 4815.0575
     },
     {
       "marca": "Andes Origen",
       "grupo": "CMQ",
       "segmento": "Core+",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.3222222222222222,
-      "avg_ptc": 2639.4333333333334
+      "avg_dinamica": 0.32727272727272727,
+      "avg_ptc": 2717.8272727272724
     },
     {
       "marca": "Corona",
       "grupo": "CMQ",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.2727272727272727,
-      "avg_ptc": 3793.3636363636365
+      "avg_dinamica": 0.28846153846153844,
+      "avg_ptc": 3625.7884615384614
     },
     {
       "marca": "Imperial",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.26666666666666666,
-      "avg_ptc": 2802.383333333333
+      "avg_dinamica": 0.21842105263157893,
+      "avg_ptc": 3004.547368421053
     },
     {
       "marca": "Stella Artois 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.31875,
-      "avg_ptc": 2513.56875
+      "avg_dinamica": 0.32999999999999996,
+      "avg_ptc": 2467.93
     },
     {
       "marca": "Antares",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.3,
       "avg_dinamica": 0.3,
-      "avg_ptc": 3192.337037037037
+      "avg_ptc": 3222.269696969697
     },
     {
       "marca": "Brahma",
       "grupo": "CMQ",
       "segmento": "Core",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.17222222222222222,
-      "avg_ptc": 2453.5055555555555
+      "avg_dinamica": 0.16818181818181818,
+      "avg_ptc": 2479.35
     },
     {
       "marca": "Grolsch",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.16875,
-      "avg_ptc": 3877.98125
+      "avg_dinamica": 0.18,
+      "avg_ptc": 3823.78
     },
     {
       "marca": "Quilmes",
       "grupo": "CMQ",
       "segmento": "Core",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.155,
-      "avg_ptc": 2867.605
+      "avg_dinamica": 0.14583333333333334,
+      "avg_ptc": 2899.3541666666665
     },
     {
       "marca": "1890",
       "grupo": "CMQ",
       "segmento": "Value",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.15,
-      "avg_dinamica": 0.13,
-      "avg_ptc": 2121.93
+      "avg_dinamica": 0.125,
+      "avg_ptc": 2134.125
     },
     {
       "marca": "Corona 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 4,
-      "dias_dinamica": 4,
+      "dias": 5,
+      "dias_dinamica": 5,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.35,
-      "avg_ptc": 2515.1000000000004
+      "avg_dinamica": 0.36,
+      "avg_ptc": 2470.36
     },
     {
       "marca": "Quilmes 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 4,
-      "dias_dinamica": 4,
+      "dias": 5,
+      "dias_dinamica": 5,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.35,
-      "avg_ptc": 1539.85
+      "avg_dinamica": 0.36,
+      "avg_ptc": 1516.16
+    },
+    {
+      "marca": "Schneider",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 6,
+      "dias_dinamica": 5,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.16249999999999998,
+      "avg_ptc": 3232.225
+    },
+    {
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 6,
+      "dias_dinamica": 5,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.08333333333333333,
+      "avg_ptc": 4501.0
+    },
+    {
+      "marca": "Kostritzer",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 5,
+      "dias_dinamica": 5,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.2,
+      "avg_ptc": 5751.2
     },
     {
       "marca": "Michelob Ultra",
@@ -2763,44 +3194,34 @@
       "avg_ptc": 2905.7875
     },
     {
-      "marca": "Schneider",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dias": 5,
-      "dias_dinamica": 4,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.19166666666666665,
-      "avg_ptc": 3177.525
-    },
-    {
-      "marca": "Heineken",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dias": 5,
-      "dias_dinamica": 4,
-      "max_dinamica": 0.2,
-      "avg_dinamica": 0.08214285714285714,
-      "avg_ptc": 4484.010714285714
-    },
-    {
-      "marca": "Kostritzer",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dias": 4,
-      "dias_dinamica": 4,
-      "max_dinamica": 0.2,
-      "avg_dinamica": 0.2,
-      "avg_ptc": 5767.2
-    },
-    {
       "marca": "Salta Cautiva",
       "grupo": "Competencia",
       "segmento": "Core+",
+      "dias": 5,
+      "dias_dinamica": 3,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.16428571428571428,
+      "avg_ptc": 2949.164285714286
+    },
+    {
+      "marca": "Guinness",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 2,
+      "dias_dinamica": 2,
+      "max_dinamica": 0.5,
+      "avg_dinamica": 0.45,
+      "avg_ptc": 2248.95
+    },
+    {
+      "marca": "Amstel",
+      "grupo": "Competencia",
+      "segmento": "Core",
       "dias": 4,
       "dias_dinamica": 2,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.13333333333333333,
-      "avg_ptc": 3059.4666666666667
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.1857142857142857,
+      "avg_ptc": 3028.042857142857
     },
     {
       "marca": "Budweiser",
@@ -2813,34 +3234,34 @@
       "avg_ptc": 2767.816666666667
     },
     {
+      "marca": "Salta",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 6,
+      "dias_dinamica": 2,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.09999999999999999,
+      "avg_ptc": 3202.1000000000004
+    },
+    {
       "marca": "Asahi",
       "grupo": "Competencia",
       "segmento": "Super Premium",
+      "dias": 5,
+      "dias_dinamica": 2,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.1,
+      "avg_ptc": 5493.6
+    },
+    {
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
       "dias": 4,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.125,
-      "avg_ptc": 5334.75
-    },
-    {
-      "marca": "Guinness",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dias": 1,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.5,
-      "avg_dinamica": 0.5,
-      "avg_ptc": 2044.5
-    },
-    {
-      "marca": "Amstel",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dias": 3,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.12999999999999998,
-      "avg_ptc": 3204.0299999999997
+      "avg_dinamica": 0.08333333333333333,
+      "avg_ptc": 3473.25
     },
     {
       "marca": "Andes",
@@ -2853,6 +3274,26 @@
       "avg_ptc": 3301.35
     },
     {
+      "marca": "Blue Moon",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 5,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.07777777777777778,
+      "avg_ptc": 5126.133333333333
+    },
+    {
+      "marca": "Santa Fe",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dias": 4,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.0875,
+      "avg_ptc": 2760.7125
+    },
+    {
       "marca": "Starberg",
       "grupo": "Competencia",
       "segmento": "Revisar",
@@ -2863,94 +3304,54 @@
       "avg_ptc": 2211.75
     },
     {
-      "marca": "Warsteiner",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dias": 3,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.25,
-      "avg_dinamica": 0.05,
-      "avg_ptc": 3575.55
-    },
-    {
-      "marca": "Salta",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dias": 5,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.2,
-      "avg_dinamica": 0.028571428571428574,
-      "avg_ptc": 3454.171428571429
-    },
-    {
       "marca": "Bitburger",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dias": 3,
-      "dias_dinamica": 0,
-      "max_dinamica": 0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 5265.0
-    },
-    {
-      "marca": "Blue Moon",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dias": 4,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5551.857142857143
+      "avg_ptc": 5279.0
     },
     {
       "marca": "Estrella Damm",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 2,
+      "dias": 3,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 2452.3333333333335
+      "avg_ptc": 2499.0
     },
     {
       "marca": "Estrella Galicia",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 5,
+      "dias_dinamica": 0,
+      "max_dinamica": 0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3985.25
+    },
+    {
+      "marca": "Kunstmann",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dias": 4,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 4029.0
-    },
-    {
-      "marca": "Kunstmann",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dias": 3,
-      "dias_dinamica": 0,
-      "max_dinamica": 0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 5151.0
+      "avg_ptc": 5144.714285714285
     },
     {
       "marca": "Peroni",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 1,
+      "dias": 2,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5039.0
-    },
-    {
-      "marca": "Santa Fe",
-      "grupo": "Competencia",
-      "segmento": "Revisar",
-      "dias": 3,
-      "dias_dinamica": 0,
-      "max_dinamica": 0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 3029.0
+      "avg_ptc": 5044.0
     }
   ],
   "fights": [
@@ -3043,9 +3444,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-11 12:04:28",
+    "generado": "2026-08-12 10:07:36",
     "sku_rows": 107,
-    "registros_validos": 349,
-    "dias": 5
+    "registros_validos": 431,
+    "dias": 6
   }
 }
