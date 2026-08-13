@@ -7,6 +7,11 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 1929.0,
+          "ptc": 1736.1,
+          "dinamica": 0.1
+        },
         "2026-08-05": {
           "fleje": 1929.0,
           "ptc": 1929.0,
@@ -46,6 +51,11 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4319.0,
+          "ptc": 3455.2,
+          "dinamica": 0.2
+        },
         "2026-08-05": {
           "fleje": 4329.0,
           "ptc": 3030.3,
@@ -75,6 +85,11 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 2869.0,
+          "ptc": 2869.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 2869.0,
           "ptc": 2869.0,
@@ -109,6 +124,11 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4059.0,
+          "ptc": 3247.2,
+          "dinamica": 0.2
+        },
         "2026-08-05": {
           "fleje": 4059.0,
           "ptc": 2841.3,
@@ -148,6 +168,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3189.0,
+          "ptc": 2232.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 3139.0,
           "ptc": 3139.0,
@@ -177,6 +202,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4539.0,
+          "ptc": 2950.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 4519.0,
           "ptc": 4519.0,
@@ -201,6 +231,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3529.0,
+          "ptc": 3529.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3569.0,
           "ptc": 3569.0,
@@ -240,6 +275,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3609.0,
+          "ptc": 3609.0,
+          "dinamica": 0.0
+        },
         "2026-08-11": {
           "fleje": 3619.0,
           "ptc": 2895.2,
@@ -259,6 +299,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3079.0,
+          "ptc": 3079.0,
+          "dinamica": 0.0
+        },
         "2026-08-10": {
           "fleje": 3069.0,
           "ptc": 1994.85,
@@ -283,6 +328,11 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4369.0,
+          "ptc": 3713.65,
+          "dinamica": 0.15
+        },
         "2026-08-05": {
           "fleje": 4359.0,
           "ptc": 3705.15,
@@ -317,6 +367,11 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3679.0,
+          "ptc": 2391.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3679.0,
           "ptc": 2759.25,
@@ -351,6 +406,11 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3519.0,
+          "ptc": 2287.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3529.0,
           "ptc": 2646.75,
@@ -390,6 +450,11 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3689.0,
+          "ptc": 2397.85,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3589.0,
           "ptc": 2153.4,
@@ -429,6 +494,11 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 7899.0,
+          "ptc": 5134.35,
+          "dinamica": 0.35
+        },
         "2026-08-11": {
           "fleje": 7899.0,
           "ptc": 5924.25,
@@ -442,12 +512,46 @@
       }
     },
     {
+      "marca": "Michelob Ultra",
+      "sku": "Michelob Ultra Cerveza",
+      "calibre": "275",
+      "grupo": "CMQ",
+      "segmento": "Core+",
+      "dates": {
+        "2026-08-13": {
+          "fleje": 4279.0,
+          "ptc": 2995.3,
+          "dinamica": 0.3
+        },
+        "2026-08-09": {
+          "fleje": 4279.0,
+          "ptc": 3423.2,
+          "dinamica": 0.2
+        },
+        "2026-08-10": {
+          "fleje": 4279.0,
+          "ptc": 2995.3,
+          "dinamica": 0.3
+        },
+        "2026-08-11": {
+          "fleje": 4279.0,
+          "ptc": 2995.3,
+          "dinamica": 0.3
+        }
+      }
+    },
+    {
       "marca": "Estrella Damm",
       "sku": "Estrella Damm Cerveza Estrella Damm",
       "calibre": "473",
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 2639.0,
+          "ptc": 2639.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 2639.0,
           "ptc": 2639.0,
@@ -467,6 +571,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3979.0,
+          "ptc": 3979.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3989.0,
           "ptc": 2792.3,
@@ -491,6 +600,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3759.0,
+          "ptc": 3759.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3769.0,
           "ptc": 2638.3,
@@ -515,6 +629,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3629.0,
+          "ptc": 3629.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3559.0,
           "ptc": 2491.3,
@@ -554,6 +673,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3819.0,
+          "ptc": 3246.15,
+          "dinamica": 0.15
+        },
         "2026-08-05": {
           "fleje": 3779.0,
           "ptc": 2645.3,
@@ -593,6 +717,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3589.0,
+          "ptc": 3589.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3569.0,
           "ptc": 2498.3,
@@ -622,6 +751,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3799.0,
+          "ptc": 3799.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3759.0,
           "ptc": 2631.3,
@@ -661,6 +795,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3759.0,
+          "ptc": 3759.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 3759.0,
           "ptc": 2631.3,
@@ -685,6 +824,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5119.0,
+          "ptc": 4351.15,
+          "dinamica": 0.15
+        },
         "2026-08-05": {
           "fleje": 5079.0,
           "ptc": 3301.35,
@@ -724,6 +868,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4378.51,
+          "ptc": 4378.51,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 4420.37,
           "ptc": 4420.37,
@@ -748,6 +897,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3979.0,
+          "ptc": 3979.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 4029.0,
           "ptc": 4029.0,
@@ -767,11 +921,16 @@
     },
     {
       "marca": "Miller",
-      "sku": "Miller Cerveza Genuine Draft en Lata",
+      "sku": "Miller Cerveza Rubia Miller",
       "calibre": "600",
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6469.0,
+          "ptc": 6469.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 6479.0,
           "ptc": 6479.0,
@@ -781,16 +940,6 @@
           "fleje": 6479.0,
           "ptc": 6479.0,
           "dinamica": 0.0
-        },
-        "2026-08-09": {
-          "fleje": 4029.0,
-          "ptc": 2215.95,
-          "dinamica": 0.45
-        },
-        "2026-08-10": {
-          "fleje": 5959.0,
-          "ptc": 3575.4,
-          "dinamica": 0.4
         },
         "2026-08-11": {
           "fleje": 6469.0,
@@ -811,6 +960,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5949.0,
+          "ptc": 5056.65,
+          "dinamica": 0.15
+        },
         "2026-08-05": {
           "fleje": 5919.0,
           "ptc": 5031.15,
@@ -820,6 +974,16 @@
           "fleje": 5919.0,
           "ptc": 5031.15,
           "dinamica": 0.15
+        },
+        "2026-08-09": {
+          "fleje": 4029.0,
+          "ptc": 2215.95,
+          "dinamica": 0.45
+        },
+        "2026-08-10": {
+          "fleje": 5959.0,
+          "ptc": 3575.4,
+          "dinamica": 0.4
         },
         "2026-08-11": {
           "fleje": 5949.0,
@@ -840,6 +1004,11 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3519.0,
+          "ptc": 3519.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 3529.0,
           "ptc": 3529.0,
@@ -864,11 +1033,35 @@
     },
     {
       "marca": "Stella Artois",
+      "sku": "Stella Artois Cerveza Pure Gold",
+      "calibre": "330/355",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-13": {
+          "fleje": 4989.0,
+          "ptc": 3242.85,
+          "dinamica": 0.35
+        },
+        "2026-08-11": {
+          "fleje": 4949.0,
+          "ptc": 3216.85,
+          "dinamica": 0.35
+        }
+      }
+    },
+    {
+      "marca": "Stella Artois",
       "sku": "Stella Artois Cerveza Stella Artois",
       "calibre": "330/355",
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4489.0,
+          "ptc": 2917.85,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 4489.0,
           "ptc": 3366.75,
@@ -903,50 +1096,16 @@
     },
     {
       "marca": "Stella Artois",
-      "sku": "Cerveza Stella Artois Noire 473 cc Stella Artois",
-      "calibre": "473",
-      "grupo": "CMQ",
-      "segmento": "Premium",
-      "dates": {
-        "2026-08-05": {
-          "fleje": 4409.0,
-          "ptc": 3306.75,
-          "dinamica": 0.25
-        },
-        "2026-08-06": {
-          "fleje": 4409.0,
-          "ptc": 3306.75,
-          "dinamica": 0.25
-        },
-        "2026-08-09": {
-          "fleje": 4409.0,
-          "ptc": 3306.75,
-          "dinamica": 0.25
-        },
-        "2026-08-10": {
-          "fleje": 4409.0,
-          "ptc": 2865.85,
-          "dinamica": 0.35
-        },
-        "2026-08-11": {
-          "fleje": 4409.0,
-          "ptc": 2865.85,
-          "dinamica": 0.35
-        },
-        "2026-08-12": {
-          "fleje": 4409.0,
-          "ptc": 2865.85,
-          "dinamica": 0.35
-        }
-      }
-    },
-    {
-      "marca": "Stella Artois",
       "sku": "Stella Artois Cerveza Pure Gold Stella Artois",
       "calibre": "473",
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3719.0,
           "ptc": 2417.35,
@@ -981,6 +1140,11 @@
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6000.0,
+          "ptc": 3900.0,
+          "dinamica": 0.35
+        },
         "2026-08-06": {
           "fleje": 6000.0,
           "ptc": 3900.0,
@@ -1000,6 +1164,11 @@
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6859.0,
+          "ptc": 6859.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 6859.0,
           "ptc": 4458.35,
@@ -1039,6 +1208,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4809.0,
+          "ptc": 3847.2,
+          "dinamica": 0.2
+        },
         "2026-08-05": {
           "fleje": 4769.0,
           "ptc": 3815.2,
@@ -1078,6 +1252,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4499.0,
+          "ptc": 3374.25,
+          "dinamica": 0.25
+        },
         "2026-08-06": {
           "fleje": 4489.0,
           "ptc": 4489.0,
@@ -1102,11 +1281,45 @@
     },
     {
       "marca": "Heineken",
+      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
+      "calibre": "330/355",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dates": {
+        "2026-08-13": {
+          "fleje": 3579.0,
+          "ptc": 3579.0,
+          "dinamica": 0.0
+        },
+        "2026-08-06": {
+          "fleje": 3569.0,
+          "ptc": 3569.0,
+          "dinamica": 0.0
+        },
+        "2026-08-10": {
+          "fleje": 3579.0,
+          "ptc": 3579.0,
+          "dinamica": 0.0
+        },
+        "2026-08-11": {
+          "fleje": 3569.0,
+          "ptc": 3569.0,
+          "dinamica": 0.0
+        }
+      }
+    },
+    {
+      "marca": "Heineken",
       "sku": "Heineken Cerveza Original Heineken",
       "calibre": "330/355",
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4849.0,
+          "ptc": 4849.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 4849.0,
           "ptc": 4849.0,
@@ -1131,6 +1344,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4579.0,
+          "ptc": 4579.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 4589.0,
           "ptc": 3900.65,
@@ -1155,6 +1373,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3759.0,
+          "ptc": 3007.2,
+          "dinamica": 0.2
+        },
         "2026-08-05": {
           "fleje": 3709.0,
           "ptc": 2967.2,
@@ -1179,6 +1402,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6879.0,
+          "ptc": 5847.15,
+          "dinamica": 0.15
+        },
         "2026-08-05": {
           "fleje": 6869.0,
           "ptc": 5838.65,
@@ -1218,6 +1446,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3009.0,
+          "ptc": 1504.5,
+          "dinamica": 0.5
+        },
         "2026-08-05": {
           "fleje": 3009.0,
           "ptc": 1805.4,
@@ -1257,6 +1490,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3219.0,
+          "ptc": 2092.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3159.0,
           "ptc": 2843.1,
@@ -1296,6 +1534,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3129.0,
+          "ptc": 1877.4,
+          "dinamica": 0.4
+        },
         "2026-08-05": {
           "fleje": 3129.0,
           "ptc": 2659.65,
@@ -1335,6 +1578,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3519.0,
+          "ptc": 2287.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3469.0,
           "ptc": 3122.1,
@@ -1359,6 +1607,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3469.0,
+          "ptc": 2428.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 3459.0,
           "ptc": 3113.1,
@@ -1383,6 +1636,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3169.0,
+          "ptc": 1901.4,
+          "dinamica": 0.4
+        },
         "2026-08-05": {
           "fleje": 3149.0,
           "ptc": 2676.65,
@@ -1422,6 +1680,11 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5039.0,
+          "ptc": 5039.0,
+          "dinamica": 0.0
+        },
         "2026-08-11": {
           "fleje": 5039.0,
           "ptc": 5039.0,
@@ -1441,6 +1704,11 @@
       "grupo": "Competencia",
       "segmento": "Revisar",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3009.0,
+          "ptc": 3009.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 3069.0,
           "ptc": 3069.0,
@@ -1464,12 +1732,36 @@
       }
     },
     {
+      "marca": "Starberg",
+      "sku": "Starberg Cerveza Lager Starberg",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Revisar",
+      "dates": {
+        "2026-08-13": {
+          "fleje": 2949.0,
+          "ptc": 2949.0,
+          "dinamica": 0.0
+        },
+        "2026-08-06": {
+          "fleje": 2949.0,
+          "ptc": 2211.75,
+          "dinamica": 0.25
+        }
+      }
+    },
+    {
       "marca": "Corona 0",
       "sku": "Corona Cerveza Cero Corona 0",
       "calibre": "330/355",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3819.0,
+          "ptc": 2291.4,
+          "dinamica": 0.4
+        },
         "2026-08-06": {
           "fleje": 3829.0,
           "ptc": 2680.3,
@@ -1504,6 +1796,11 @@
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
       "dates": {
+        "2026-08-13": {
+          "fleje": 2369.0,
+          "ptc": 1421.4,
+          "dinamica": 0.4
+        },
         "2026-08-05": {
           "fleje": 2369.0,
           "ptc": 1658.3,
@@ -1538,6 +1835,11 @@
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3619.0,
+          "ptc": 2171.4,
+          "dinamica": 0.4
+        },
         "2026-08-05": {
           "fleje": 3679.0,
           "ptc": 2575.3,
@@ -1567,6 +1869,11 @@
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3719.0,
+          "ptc": 2417.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 3799.0,
           "ptc": 2849.25,
@@ -1606,6 +1913,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4989.0,
+          "ptc": 3242.85,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 4989.0,
           "ptc": 3741.75,
@@ -1645,6 +1957,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3609.0,
+          "ptc": 2165.4,
+          "dinamica": 0.4
+        },
         "2026-08-06": {
           "fleje": 3609.0,
           "ptc": 2526.3,
@@ -1674,6 +1991,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5599.0,
+          "ptc": 3639.35,
+          "dinamica": 0.35
+        },
         "2026-08-09": {
           "fleje": 5609.0,
           "ptc": 4206.75,
@@ -1703,6 +2025,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5439.0,
+          "ptc": 3535.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 5459.0,
           "ptc": 4094.25,
@@ -1742,6 +2069,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5439.0,
+          "ptc": 5439.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 5439.0,
           "ptc": 2719.5,
@@ -1781,6 +2113,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 7749.0,
+          "ptc": 5036.85,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 7749.0,
           "ptc": 5811.75,
@@ -1820,6 +2157,11 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 7739.0,
+          "ptc": 5030.35,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 7759.0,
           "ptc": 5819.25,
@@ -1859,6 +2201,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4529.0,
+          "ptc": 3170.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 4529.0,
           "ptc": 3170.3,
@@ -1888,6 +2235,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4519.0,
+          "ptc": 3163.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 4519.0,
           "ptc": 3163.3,
@@ -1927,6 +2279,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3839.0,
+          "ptc": 2687.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 3839.0,
           "ptc": 2687.3,
@@ -1966,6 +2323,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4569.0,
+          "ptc": 3198.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 4589.0,
           "ptc": 3212.3,
@@ -2005,6 +2367,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4569.0,
+          "ptc": 3198.3,
+          "dinamica": 0.3
+        },
         "2026-08-05": {
           "fleje": 4549.0,
           "ptc": 3184.3,
@@ -2044,6 +2411,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6779.0,
+          "ptc": 4745.3,
+          "dinamica": 0.3
+        },
         "2026-08-10": {
           "fleje": 6779.0,
           "ptc": 4745.3,
@@ -2068,6 +2440,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 6129.0,
+          "ptc": 6129.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 6129.0,
           "ptc": 4596.75,
@@ -2102,6 +2479,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4919.0,
+          "ptc": 4919.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 4969.0,
           "ptc": 4969.0,
@@ -2131,6 +2513,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5709.0,
+          "ptc": 5709.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 5809.0,
           "ptc": 5809.0,
@@ -2155,6 +2542,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5889.0,
+          "ptc": 5889.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 5889.0,
           "ptc": 5889.0,
@@ -2184,6 +2576,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5299.0,
+          "ptc": 5299.0,
+          "dinamica": 0.0
+        },
         "2026-08-05": {
           "fleje": 5299.0,
           "ptc": 5299.0,
@@ -2218,6 +2615,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4059.0,
+          "ptc": 4059.0,
+          "dinamica": 0.0
+        },
         "2026-08-10": {
           "fleje": 4059.0,
           "ptc": 4059.0,
@@ -2242,6 +2644,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3649.0,
+          "ptc": 3649.0,
+          "dinamica": 0.0
+        },
         "2026-08-10": {
           "fleje": 3649.0,
           "ptc": 3649.0,
@@ -2260,31 +2667,17 @@
       }
     },
     {
-      "marca": "Guinness",
-      "sku": "Cerveza Guinness Hop House Guinness",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 4089.0,
-          "ptc": 2044.5,
-          "dinamica": 0.5
-        },
-        "2026-08-12": {
-          "fleje": 4089.0,
-          "ptc": 2453.4,
-          "dinamica": 0.4
-        }
-      }
-    },
-    {
       "marca": "Kostritzer",
       "sku": "Kostritzer Cerveza Schwarzbier Kostritzer",
       "calibre": "473",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 7109.0,
+          "ptc": 5687.2,
+          "dinamica": 0.2
+        },
         "2026-08-06": {
           "fleje": 7309.0,
           "ptc": 5847.2,
@@ -2319,6 +2712,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5039.0,
+          "ptc": 5039.0,
+          "dinamica": 0.0
+        },
         "2026-08-10": {
           "fleje": 5049.0,
           "ptc": 5049.0,
@@ -2343,6 +2741,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 5209.0,
+          "ptc": 5209.0,
+          "dinamica": 0.0
+        },
         "2026-08-06": {
           "fleje": 5239.0,
           "ptc": 5239.0,
@@ -2372,6 +2775,11 @@
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4549.0,
+          "ptc": 2956.85,
+          "dinamica": 0.35
+        },
         "2026-08-05": {
           "fleje": 4559.0,
           "ptc": 4103.1,
@@ -2396,35 +2804,16 @@
     },
     {
       "marca": "Rabieta",
-      "sku": "Rabieta Cerveza Helles Munich",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dates": {
-        "2026-08-10": {
-          "fleje": 4059.0,
-          "ptc": 2029.5,
-          "dinamica": 0.5
-        },
-        "2026-08-11": {
-          "fleje": 4059.0,
-          "ptc": 2029.5,
-          "dinamica": 0.5
-        },
-        "2026-08-12": {
-          "fleje": 4059.0,
-          "ptc": 4059.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Rabieta",
       "sku": "Rabieta Cerveza Irish Red Ale Rabieta",
       "calibre": "473",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dates": {
+        "2026-08-13": {
+          "fleje": 4059.0,
+          "ptc": 3653.1,
+          "dinamica": 0.1
+        },
         "2026-08-05": {
           "fleje": 4079.0,
           "ptc": 3671.1,
@@ -2464,6 +2853,11 @@
       "grupo": "CMQ",
       "segmento": "Value",
       "dates": {
+        "2026-08-13": {
+          "fleje": 2439.0,
+          "ptc": 2195.1,
+          "dinamica": 0.1
+        },
         "2026-08-05": {
           "fleje": 2439.0,
           "ptc": 2073.15,
@@ -2493,6 +2887,11 @@
       "grupo": "Competencia",
       "segmento": "Value",
       "dates": {
+        "2026-08-13": {
+          "fleje": 3949.0,
+          "ptc": 2961.75,
+          "dinamica": 0.25
+        },
         "2026-08-06": {
           "fleje": 3949.0,
           "ptc": 3949.0,
@@ -2639,20 +3038,6 @@
     },
     {
       "marca": "Michelob Ultra",
-      "sku": "Michelob Ultra Cerveza",
-      "calibre": "275",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-11": {
-          "fleje": 4279.0,
-          "ptc": 2995.3,
-          "dinamica": 0.3
-        }
-      }
-    },
-    {
-      "marca": "Michelob Ultra",
       "sku": "Michelob Cerveza Light Ultra Michelob Ultra",
       "calibre": "473",
       "grupo": "CMQ",
@@ -2662,16 +3047,6 @@
           "fleje": 3399.0,
           "ptc": 2209.35,
           "dinamica": 0.35
-        },
-        "2026-08-09": {
-          "fleje": 4279.0,
-          "ptc": 3423.2,
-          "dinamica": 0.2
-        },
-        "2026-08-10": {
-          "fleje": 4279.0,
-          "ptc": 2995.3,
-          "dinamica": 0.3
         }
       }
     },
@@ -2743,53 +3118,40 @@
     },
     {
       "marca": "Stella Artois",
-      "sku": "Stella Artois Cerveza Pure Gold",
-      "calibre": "330/355",
+      "sku": "Cerveza Stella Artois Noire 473 cc Stella Artois",
+      "calibre": "473",
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
-        "2026-08-11": {
-          "fleje": 4949.0,
-          "ptc": 3216.85,
-          "dinamica": 0.35
-        }
-      }
-    },
-    {
-      "marca": "Heineken",
-      "sku": "Heineken Cerveza 0.0 Lata 330ml Heineken",
-      "calibre": "330/355",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dates": {
+        "2026-08-05": {
+          "fleje": 4409.0,
+          "ptc": 3306.75,
+          "dinamica": 0.25
+        },
         "2026-08-06": {
-          "fleje": 3569.0,
-          "ptc": 3569.0,
-          "dinamica": 0.0
+          "fleje": 4409.0,
+          "ptc": 3306.75,
+          "dinamica": 0.25
+        },
+        "2026-08-09": {
+          "fleje": 4409.0,
+          "ptc": 3306.75,
+          "dinamica": 0.25
         },
         "2026-08-10": {
-          "fleje": 3579.0,
-          "ptc": 3579.0,
-          "dinamica": 0.0
+          "fleje": 4409.0,
+          "ptc": 2865.85,
+          "dinamica": 0.35
         },
         "2026-08-11": {
-          "fleje": 3569.0,
-          "ptc": 3569.0,
-          "dinamica": 0.0
-        }
-      }
-    },
-    {
-      "marca": "Starberg",
-      "sku": "Starberg Cerveza Lager Starberg",
-      "calibre": "473",
-      "grupo": "Competencia",
-      "segmento": "Revisar",
-      "dates": {
-        "2026-08-06": {
-          "fleje": 2949.0,
-          "ptc": 2211.75,
-          "dinamica": 0.25
+          "fleje": 4409.0,
+          "ptc": 2865.85,
+          "dinamica": 0.35
+        },
+        "2026-08-12": {
+          "fleje": 4409.0,
+          "ptc": 2865.85,
+          "dinamica": 0.35
         }
       }
     },
@@ -2912,6 +3274,25 @@
       }
     },
     {
+      "marca": "Guinness",
+      "sku": "Cerveza Guinness Hop House Guinness",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-06": {
+          "fleje": 4089.0,
+          "ptc": 2044.5,
+          "dinamica": 0.5
+        },
+        "2026-08-12": {
+          "fleje": 4089.0,
+          "ptc": 2453.4,
+          "dinamica": 0.4
+        }
+      }
+    },
+    {
       "marca": "Rabieta",
       "sku": "Rabieta Cerveza Golden Ale Rabieta",
       "calibre": "473",
@@ -2942,6 +3323,30 @@
           "fleje": 4059.0,
           "ptc": 2029.5,
           "dinamica": 0.5
+        }
+      }
+    },
+    {
+      "marca": "Rabieta",
+      "sku": "Rabieta Cerveza Helles Munich",
+      "calibre": "473",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dates": {
+        "2026-08-10": {
+          "fleje": 4059.0,
+          "ptc": 2029.5,
+          "dinamica": 0.5
+        },
+        "2026-08-11": {
+          "fleje": 4059.0,
+          "ptc": 2029.5,
+          "dinamica": 0.5
+        },
+        "2026-08-12": {
+          "fleje": 4059.0,
+          "ptc": 4059.0,
+          "dinamica": 0.0
         }
       }
     },
@@ -2990,218 +3395,239 @@
     "2026-08-09",
     "2026-08-10",
     "2026-08-11",
-    "2026-08-12"
+    "2026-08-12",
+    "2026-08-13"
   ],
   "stats": [
     {
       "marca": "Patagonia",
       "grupo": "CMQ",
       "segmento": "Super Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.95,
-      "avg_dinamica": 0.340625,
-      "avg_ptc": 4316.621875
+      "avg_dinamica": 0.3324324324324324,
+      "avg_ptc": 4346.291891891891
     },
     {
       "marca": "Pampa",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.2733333333333333,
-      "avg_ptc": 2330.0066666666667
+      "avg_dinamica": 0.2916666666666667,
+      "avg_ptc": 2277.5416666666665
     },
     {
       "marca": "Rabieta",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.275,
-      "avg_ptc": 3028.2194444444444
+      "avg_dinamica": 0.27,
+      "avg_ptc": 3055.895
     },
     {
       "marca": "Stella Artois",
       "grupo": "CMQ",
       "segmento": "Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.29038461538461535,
-      "avg_ptc": 3680.321153846154
+      "avg_dinamica": 0.2887096774193548,
+      "avg_ptc": 3710.4967741935484
     },
     {
       "marca": "Miller",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.45,
-      "avg_dinamica": 0.090625,
-      "avg_ptc": 4815.0575
+      "avg_dinamica": 0.08,
+      "avg_ptc": 4846.204
     },
     {
       "marca": "Andes Origen",
       "grupo": "CMQ",
       "segmento": "Core+",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.32727272727272727,
-      "avg_ptc": 2717.8272727272724
+      "avg_dinamica": 0.33076923076923076,
+      "avg_ptc": 2769.3500000000004
     },
     {
       "marca": "Corona",
       "grupo": "CMQ",
       "segmento": "Super Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.28846153846153844,
-      "avg_ptc": 3625.7884615384614
+      "avg_dinamica": 0.3,
+      "avg_ptc": 3502.9
     },
     {
       "marca": "Imperial",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.21842105263157893,
-      "avg_ptc": 3004.547368421053
+      "avg_dinamica": 0.18695652173913044,
+      "avg_ptc": 3136.6108695652174
     },
     {
       "marca": "Stella Artois 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.32999999999999996,
-      "avg_ptc": 2467.93
+      "avg_dinamica": 0.33749999999999997,
+      "avg_ptc": 2439.0041666666666
     },
     {
       "marca": "Antares",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.3,
       "avg_dinamica": 0.3,
-      "avg_ptc": 3222.269696969697
+      "avg_ptc": 3243.5307692307697
     },
     {
       "marca": "Brahma",
       "grupo": "CMQ",
       "segmento": "Core",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.16818181818181818,
-      "avg_ptc": 2479.35
+      "avg_dinamica": 0.16538461538461538,
+      "avg_ptc": 2497.242307692308
     },
     {
       "marca": "Grolsch",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.18,
-      "avg_ptc": 3823.78
+      "avg_dinamica": 0.1875,
+      "avg_ptc": 3788.2708333333335
     },
     {
       "marca": "Quilmes",
       "grupo": "CMQ",
       "segmento": "Core",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.3,
-      "avg_dinamica": 0.14583333333333334,
-      "avg_ptc": 2899.3541666666665
+      "avg_dinamica": 0.1392857142857143,
+      "avg_ptc": 2922.032142857143
     },
     {
       "marca": "1890",
       "grupo": "CMQ",
       "segmento": "Value",
-      "dias": 6,
-      "dias_dinamica": 6,
+      "dias": 7,
+      "dias_dinamica": 7,
       "max_dinamica": 0.15,
-      "avg_dinamica": 0.125,
-      "avg_ptc": 2134.125
+      "avg_dinamica": 0.12142857142857143,
+      "avg_ptc": 2142.8357142857144
     },
     {
       "marca": "Corona 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.36,
-      "avg_ptc": 2470.36
+      "avg_dinamica": 0.3666666666666667,
+      "avg_ptc": 2440.5333333333333
     },
     {
       "marca": "Quilmes 0",
       "grupo": "CMQ",
       "segmento": "Sin alcohol",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.36,
-      "avg_ptc": 1516.16
+      "avg_dinamica": 0.3666666666666667,
+      "avg_ptc": 1500.3666666666668
     },
     {
       "marca": "Schneider",
       "grupo": "Competencia",
       "segmento": "Core",
-      "dias": 6,
-      "dias_dinamica": 5,
+      "dias": 7,
+      "dias_dinamica": 6,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.16249999999999998,
-      "avg_ptc": 3232.225
+      "avg_dinamica": 0.145,
+      "avg_ptc": 3265.045
     },
     {
       "marca": "Heineken",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 6,
-      "dias_dinamica": 5,
+      "dias": 7,
+      "dias_dinamica": 6,
       "max_dinamica": 0.2,
-      "avg_dinamica": 0.08333333333333333,
-      "avg_ptc": 4501.0
+      "avg_dinamica": 0.08043478260869566,
+      "avg_ptc": 4473.015217391304
     },
     {
       "marca": "Kostritzer",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 5,
+      "dias": 6,
+      "dias_dinamica": 6,
       "max_dinamica": 0.2,
-      "avg_dinamica": 0.2,
-      "avg_ptc": 5751.2
+      "avg_dinamica": 0.20000000000000004,
+      "avg_ptc": 5740.533333333333
     },
     {
       "marca": "Michelob Ultra",
       "grupo": "CMQ",
       "segmento": "Core+",
-      "dias": 4,
-      "dias_dinamica": 4,
+      "dias": 5,
+      "dias_dinamica": 5,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.2875,
-      "avg_ptc": 2905.7875
+      "avg_dinamica": 0.29,
+      "avg_ptc": 2923.69
     },
     {
       "marca": "Salta Cautiva",
       "grupo": "Competencia",
       "segmento": "Core+",
-      "dias": 5,
+      "dias": 6,
       "dias_dinamica": 3,
       "max_dinamica": 0.4,
-      "avg_dinamica": 0.16428571428571428,
-      "avg_ptc": 2949.164285714286
+      "avg_dinamica": 0.14375,
+      "avg_ptc": 3020.39375
+    },
+    {
+      "marca": "Amstel",
+      "grupo": "Competencia",
+      "segmento": "Core",
+      "dias": 5,
+      "dias_dinamica": 3,
+      "max_dinamica": 0.35,
+      "avg_dinamica": 0.21666666666666667,
+      "avg_ptc": 2930.9944444444445
+    },
+    {
+      "marca": "Warsteiner",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 5,
+      "dias_dinamica": 3,
+      "max_dinamica": 0.25,
+      "avg_dinamica": 0.10714285714285714,
+      "avg_ptc": 3400.1785714285716
     },
     {
       "marca": "Guinness",
@@ -3212,16 +3638,6 @@
       "max_dinamica": 0.5,
       "avg_dinamica": 0.45,
       "avg_ptc": 2248.95
-    },
-    {
-      "marca": "Amstel",
-      "grupo": "Competencia",
-      "segmento": "Core",
-      "dias": 4,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.1857142857142857,
-      "avg_ptc": 3028.042857142857
     },
     {
       "marca": "Budweiser",
@@ -3237,31 +3653,21 @@
       "marca": "Salta",
       "grupo": "Competencia",
       "segmento": "Core",
-      "dias": 6,
+      "dias": 7,
       "dias_dinamica": 2,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.09999999999999999,
-      "avg_ptc": 3202.1000000000004
+      "avg_dinamica": 0.0818181818181818,
+      "avg_ptc": 3268.809090909091
     },
     {
       "marca": "Asahi",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 5,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.25,
-      "avg_dinamica": 0.1,
-      "avg_ptc": 5493.6
-    },
-    {
-      "marca": "Warsteiner",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dias": 4,
+      "dias": 6,
       "dias_dinamica": 2,
       "max_dinamica": 0.25,
       "avg_dinamica": 0.08333333333333333,
-      "avg_ptc": 3473.25
+      "avg_ptc": 5599.5
     },
     {
       "marca": "Andes",
@@ -3277,81 +3683,81 @@
       "marca": "Blue Moon",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 5,
+      "dias": 6,
       "dias_dinamica": 1,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.07777777777777778,
-      "avg_ptc": 5126.133333333333
+      "avg_dinamica": 0.06363636363636363,
+      "avg_ptc": 5211.2
     },
     {
       "marca": "Santa Fe",
       "grupo": "Competencia",
       "segmento": "Revisar",
-      "dias": 4,
+      "dias": 5,
       "dias_dinamica": 1,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.0875,
-      "avg_ptc": 2760.7125
+      "avg_dinamica": 0.06999999999999999,
+      "avg_ptc": 2810.37
     },
     {
       "marca": "Starberg",
       "grupo": "Competencia",
       "segmento": "Revisar",
-      "dias": 1,
+      "dias": 2,
       "dias_dinamica": 1,
       "max_dinamica": 0.25,
-      "avg_dinamica": 0.25,
-      "avg_ptc": 2211.75
+      "avg_dinamica": 0.125,
+      "avg_ptc": 2580.375
     },
     {
       "marca": "Bitburger",
-      "grupo": "Competencia",
-      "segmento": "Super Premium",
-      "dias": 4,
-      "dias_dinamica": 0,
-      "max_dinamica": 0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 5279.0
-    },
-    {
-      "marca": "Estrella Damm",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dias": 3,
-      "dias_dinamica": 0,
-      "max_dinamica": 0,
-      "avg_dinamica": 0.0,
-      "avg_ptc": 2499.0
-    },
-    {
-      "marca": "Estrella Galicia",
       "grupo": "Competencia",
       "segmento": "Super Premium",
       "dias": 5,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3985.25
+      "avg_ptc": 5286.777777777777
+    },
+    {
+      "marca": "Estrella Damm",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 4,
+      "dias_dinamica": 0,
+      "max_dinamica": 0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 2527.0
+    },
+    {
+      "marca": "Estrella Galicia",
+      "grupo": "Competencia",
+      "segmento": "Super Premium",
+      "dias": 6,
+      "dias_dinamica": 0,
+      "max_dinamica": 0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 3959.0
     },
     {
       "marca": "Kunstmann",
       "grupo": "Competencia",
       "segmento": "Super Premium",
-      "dias": 4,
+      "dias": 5,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5144.714285714285
+      "avg_ptc": 5140.111111111111
     },
     {
       "marca": "Peroni",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 2,
+      "dias": 3,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 5044.0
+      "avg_ptc": 5042.333333333333
     }
   ],
   "fights": [
@@ -3444,9 +3850,9 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-12 10:07:36",
+    "generado": "2026-08-13 10:18:43",
     "sku_rows": 107,
-    "registros_validos": 431,
-    "dias": 6
+    "registros_validos": 677,
+    "dias": 7
   }
 }
